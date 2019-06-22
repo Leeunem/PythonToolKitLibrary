@@ -1,0 +1,9 @@
+'If facing issue using pip
+'Check installation
+pip -V
+
+'Request installation
+$ sudo easy_install pip
+
+'Request upgrade
+$ sudo pip install --upgrade pip
